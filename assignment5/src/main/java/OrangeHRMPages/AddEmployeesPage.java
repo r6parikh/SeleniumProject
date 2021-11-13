@@ -55,7 +55,6 @@ public class AddEmployeesPage {
 		re_password.sendKeys(randomPW);
 		btnSave.click();
 
-
 	}
 
 }

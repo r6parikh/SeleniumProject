@@ -1,0 +1,16 @@
+
+ 
+<test name="orangeHRM" preserve-order="false">
+  <classes>
+ 
+    <class name="orangeHRMPageTest">
+      <methods>
+      	
+        <include name="OrangeHRMLoginTest" />
+        
+      </methods>
+    </class>  
+ 
+  </classes>
+</test>
+
